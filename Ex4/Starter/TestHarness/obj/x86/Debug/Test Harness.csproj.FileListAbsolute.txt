@@ -1,0 +1,17 @@
+C:\Users\efrem\source\repos\Lab 6\Ex4\Starter\TestHarness\bin\Debug\Classes.exe.config
+C:\Users\efrem\source\repos\Lab 6\Ex4\Starter\TestHarness\bin\Debug\Classes.exe
+C:\Users\efrem\source\repos\Lab 6\Ex4\Starter\TestHarness\bin\Debug\Classes.pdb
+C:\Users\efrem\source\repos\Lab 6\Ex4\Starter\TestHarness\bin\Debug\StressTest.dll
+C:\Users\efrem\source\repos\Lab 6\Ex4\Starter\TestHarness\bin\Debug\StressTest.pdb
+C:\Users\efrem\source\repos\Lab 6\Ex4\Starter\TestHarness\obj\x86\Debug\Test Harness.csproj.AssemblyReference.cache
+C:\Users\efrem\source\repos\Lab 6\Ex4\Starter\TestHarness\obj\x86\Debug\MainWindow.baml
+C:\Users\efrem\source\repos\Lab 6\Ex4\Starter\TestHarness\obj\x86\Debug\MainWindow.g.cs
+C:\Users\efrem\source\repos\Lab 6\Ex4\Starter\TestHarness\obj\x86\Debug\App.g.cs
+C:\Users\efrem\source\repos\Lab 6\Ex4\Starter\TestHarness\obj\x86\Debug\Classes_MarkupCompile.cache
+C:\Users\efrem\source\repos\Lab 6\Ex4\Starter\TestHarness\obj\x86\Debug\Classes.g.resources
+C:\Users\efrem\source\repos\Lab 6\Ex4\Starter\TestHarness\obj\x86\Debug\Classes.Properties.Resources.resources
+C:\Users\efrem\source\repos\Lab 6\Ex4\Starter\TestHarness\obj\x86\Debug\Test Harness.csproj.GenerateResource.cache
+C:\Users\efrem\source\repos\Lab 6\Ex4\Starter\TestHarness\obj\x86\Debug\Test Harness.csproj.CoreCompileInputs.cache
+C:\Users\efrem\source\repos\Lab 6\Ex4\Starter\TestHarness\obj\x86\Debug\Test Harness.csproj.CopyComplete
+C:\Users\efrem\source\repos\Lab 6\Ex4\Starter\TestHarness\obj\x86\Debug\Classes.exe
+C:\Users\efrem\source\repos\Lab 6\Ex4\Starter\TestHarness\obj\x86\Debug\Classes.pdb

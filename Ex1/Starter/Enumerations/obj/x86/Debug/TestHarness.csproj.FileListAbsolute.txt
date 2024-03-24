@@ -1,0 +1,17 @@
+C:\Users\efrem\source\repos\Lab 6\Ex1\Starter\Enumerations\bin\Debug\Enumerations.exe.config
+C:\Users\efrem\source\repos\Lab 6\Ex1\Starter\Enumerations\bin\Debug\Enumerations.exe
+C:\Users\efrem\source\repos\Lab 6\Ex1\Starter\Enumerations\bin\Debug\Enumerations.pdb
+C:\Users\efrem\source\repos\Lab 6\Ex1\Starter\Enumerations\bin\Debug\StressTest.dll
+C:\Users\efrem\source\repos\Lab 6\Ex1\Starter\Enumerations\bin\Debug\StressTest.pdb
+C:\Users\efrem\source\repos\Lab 6\Ex1\Starter\Enumerations\obj\x86\Debug\TestHarness.csproj.AssemblyReference.cache
+C:\Users\efrem\source\repos\Lab 6\Ex1\Starter\Enumerations\obj\x86\Debug\MainWindow.baml
+C:\Users\efrem\source\repos\Lab 6\Ex1\Starter\Enumerations\obj\x86\Debug\MainWindow.g.cs
+C:\Users\efrem\source\repos\Lab 6\Ex1\Starter\Enumerations\obj\x86\Debug\App.g.cs
+C:\Users\efrem\source\repos\Lab 6\Ex1\Starter\Enumerations\obj\x86\Debug\Enumerations_MarkupCompile.cache
+C:\Users\efrem\source\repos\Lab 6\Ex1\Starter\Enumerations\obj\x86\Debug\Enumerations.g.resources
+C:\Users\efrem\source\repos\Lab 6\Ex1\Starter\Enumerations\obj\x86\Debug\Enumerations.Properties.Resources.resources
+C:\Users\efrem\source\repos\Lab 6\Ex1\Starter\Enumerations\obj\x86\Debug\TestHarness.csproj.GenerateResource.cache
+C:\Users\efrem\source\repos\Lab 6\Ex1\Starter\Enumerations\obj\x86\Debug\TestHarness.csproj.CoreCompileInputs.cache
+C:\Users\efrem\source\repos\Lab 6\Ex1\Starter\Enumerations\obj\x86\Debug\TestHarness.csproj.CopyComplete
+C:\Users\efrem\source\repos\Lab 6\Ex1\Starter\Enumerations\obj\x86\Debug\Enumerations.exe
+C:\Users\efrem\source\repos\Lab 6\Ex1\Starter\Enumerations\obj\x86\Debug\Enumerations.pdb

@@ -1,0 +1,17 @@
+C:\Users\efrem\source\repos\Lab 6\Ex2\Starter\Structures\bin\Debug\Structures.exe.config
+C:\Users\efrem\source\repos\Lab 6\Ex2\Starter\Structures\bin\Debug\Structures.exe
+C:\Users\efrem\source\repos\Lab 6\Ex2\Starter\Structures\bin\Debug\Structures.pdb
+C:\Users\efrem\source\repos\Lab 6\Ex2\Starter\Structures\bin\Debug\StressTest.dll
+C:\Users\efrem\source\repos\Lab 6\Ex2\Starter\Structures\bin\Debug\StressTest.pdb
+C:\Users\efrem\source\repos\Lab 6\Ex2\Starter\Structures\obj\x86\Debug\Test Harness.csproj.AssemblyReference.cache
+C:\Users\efrem\source\repos\Lab 6\Ex2\Starter\Structures\obj\x86\Debug\MainWindow.baml
+C:\Users\efrem\source\repos\Lab 6\Ex2\Starter\Structures\obj\x86\Debug\MainWindow.g.cs
+C:\Users\efrem\source\repos\Lab 6\Ex2\Starter\Structures\obj\x86\Debug\App.g.cs
+C:\Users\efrem\source\repos\Lab 6\Ex2\Starter\Structures\obj\x86\Debug\Structures_MarkupCompile.cache
+C:\Users\efrem\source\repos\Lab 6\Ex2\Starter\Structures\obj\x86\Debug\Structures.g.resources
+C:\Users\efrem\source\repos\Lab 6\Ex2\Starter\Structures\obj\x86\Debug\Structures.Properties.Resources.resources
+C:\Users\efrem\source\repos\Lab 6\Ex2\Starter\Structures\obj\x86\Debug\Test Harness.csproj.GenerateResource.cache
+C:\Users\efrem\source\repos\Lab 6\Ex2\Starter\Structures\obj\x86\Debug\Test Harness.csproj.CoreCompileInputs.cache
+C:\Users\efrem\source\repos\Lab 6\Ex2\Starter\Structures\obj\x86\Debug\Test Harness.csproj.CopyComplete
+C:\Users\efrem\source\repos\Lab 6\Ex2\Starter\Structures\obj\x86\Debug\Structures.exe
+C:\Users\efrem\source\repos\Lab 6\Ex2\Starter\Structures\obj\x86\Debug\Structures.pdb
